@@ -111,6 +111,18 @@ nav ul li a {
     text-align: center;
 }
 
+@keyframes appear{
+    from{
+        opacity: 0.0;
+        top: -100px;
+    }
+    to{
+        opacity: 1.0;
+        top: 0.0;
+    }  
+}
+
+
 .banner .heading{
     flex: 1;
     justify-self: center;
