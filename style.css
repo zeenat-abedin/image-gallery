@@ -11,3 +11,35 @@ body{
     background-color: #ffffff;
     border: 1px solid #ddd;
 }
+
+.page-container{
+
+}
+
+.nav{
+
+}
+
+nav{
+    background-color: #222222;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav .logo{
+    display: flex;
+    align-items: center;
+}
+
+nav .logo img{
+    width: 56px;
+    height: 56px;
+    padding: 8px;
+    border-radius: 50%;
+}
+
+nav .logo .title{
+   color: white;
+   font-size: 24px;
+   font-weight: bold;
+}
