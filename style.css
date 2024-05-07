@@ -57,6 +57,11 @@ nav ul li{
     padding: 22px 40px;
     background-color: #333333;
 }
+nav ul li:hover{
+    color: white;
+    padding: 22px 40px;
+    background-color: #222222;
+}
 
 nav ul li.active{
     background-color: #222222;
