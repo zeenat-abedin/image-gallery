@@ -13,7 +13,7 @@ body{
 }
 
 .page-container{
-
+  margin-bottom: 70px;
 }
 
 .nav{
@@ -160,6 +160,14 @@ nav ul li a {
 }
 .subtext .green{
     background-color: #1eb2a6;
+}
+
+.quote{
+    display: block;
+    background-color: #eeeeee;
+    padding: 58px;
+    text-align: center;
+    font-style: italic;
 }
 
 .footer{
