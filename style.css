@@ -183,6 +183,16 @@ nav ul li a {
     color: #d3d3d3;
 }
 
+/*Projects*/
+
+h3.title{
+    font-size: 24px;
+    padding: 12px;
+    margin: 6px;
+    border-top: 5px solid #ddd;
+    border-bottom: 5px solid #ddd;
+}
+
 
 
 .footer{
