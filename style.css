@@ -170,6 +170,21 @@ nav ul li a {
     font-style: italic;
 }
 
+.quote::before{
+    display: inline-block;
+    content: open-quote;
+    font-size: 32px;
+    color: #d3d3d3;
+}
+.quote::after{
+    display: inline-block;
+    content: close-quote;
+    font-size: 32px;
+    color: #d3d3d3;
+}
+
+
+
 .footer{
     position: absolute;
     left: 0;
