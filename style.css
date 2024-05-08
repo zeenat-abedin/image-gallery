@@ -137,6 +137,31 @@ nav ul li a {
     font-size: 24px;
 }
 
+.maintext{
+    font-size: 18px;
+    padding: 12px;  
+}
+
+.subtext{
+    display: flex;
+}
+.subtext div{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+.subtext .red{
+    background-color: #e57373;
+}
+.subtext .yellow{
+    background-color: #f0a500;
+}
+.subtext .green{
+    background-color: #1eb2a6;
+}
+
 .footer{
     position: absolute;
     left: 0;
