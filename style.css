@@ -193,7 +193,11 @@ h3.title{
     border-bottom: 5px solid #ddd;
 }
 
-
+.projects{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
 
 .footer{
     position: absolute;
